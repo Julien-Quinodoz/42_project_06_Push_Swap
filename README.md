@@ -2,11 +2,7 @@
 
 > Projet de l'école 42 — trier une pile d'entiers avec un nombre minimal d'opérations.
 
----
-# 🧩 Push_swap  
-![42 Badge](https://raw.githubusercontent.com/Julien-Quinodoz/42-project-badges/main/badges/push_swapm.png)
 
-> Projet de l'école 42 — trier une pile d'entiers avec un nombre minimal d'opérations.
 
 ---
 
